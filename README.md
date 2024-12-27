@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm zidan from bogor-Indonesia<br><br>- 🔦 I’m student of Pelita Nusantara<br>- 📚 Currently I am a beginner in learning game dev and web backend.<br>- 🔭 I'm currently learning PHP/Laravel & C# unity<br>- 🕹️ I only use unity for now XD
+  I'm zidan from bogor-Indonesia<br><br>- 🔦 I’m student of Pelita Nusantara<br>- 📚 Currently I am a beginner in learning game dev and web backend.<br>- 🔭 I'm currently learning PHP/Laravel & C# unity<br>- 🕹️ I only use unity for now XD
 
 
 ## 🌐 Socials:
