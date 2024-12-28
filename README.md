@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/8eaVfdZzdP4AAAAd/mashi-futaba-sakura.gif"  />
+  <img height="266" src="https://media1.tenor.com/m/8eaVfdZzdP4AAAAd/mashi-futaba-sakura.gif"  />
 </div>
 
 ###
@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/5ltfqFhRrKsAAAAd/eepy-futaba.gif"  />
+  <img height="266" src="https://media1.tenor.com/m/5ltfqFhRrKsAAAAd/eepy-futaba.gif"  />
 </div>
 
 ###
