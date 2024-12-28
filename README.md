@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://discordapp.com/users/1315257458553389078/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="24" alt="discord logo"  />
@@ -23,6 +25,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🪄 Languages and tools:</h3>
 
@@ -50,6 +54,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="266" src="https://media1.tenor.com/m/8eaVfdZzdP4AAAAd/mashi-futaba-sakura.gif"  />
 </div>
@@ -71,7 +77,7 @@
 ###
 
 <div align="center">
-  <img height="266" src="https://media1.tenor.com/m/5ltfqFhRrKsAAAAd/eepy-futaba.gif"  />
+  <img height="220" src="https://media1.tenor.com/m/5ltfqFhRrKsAAAAd/eepy-futaba.gif"  />
 </div>
 
 ###
