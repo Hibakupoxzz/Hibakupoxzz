@@ -10,7 +10,7 @@
 
 ###
 
-<br clear="both">
+<br>
 
 <div align="center">
   <a href="https://discordapp.com/users/1315257458553389078/" target="_blank">
