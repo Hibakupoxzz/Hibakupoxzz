@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://discordapp.com/users/1315257458553389078/" target="_blank">
+  <a href="https://discord.com/users/1315257458553389078" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="24" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@Orangepoxz23" target="_blank">
@@ -29,13 +29,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="266" src="https://media1.tenor.com/m/8eaVfdZzdP4AAAAd/mashi-futaba-sakura.gif"  />
+  <img height="264" src="https://media1.tenor.com/m/8eaVfdZzdP4AAAAd/mashi-futaba-sakura.gif"  />
 </div>
 
 ###
@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img height="220" src="https://media1.tenor.com/m/5ltfqFhRrKsAAAAd/eepy-futaba.gif"  />
+  <img height="215" src="https://media1.tenor.com/m/5ltfqFhRrKsAAAAd/eepy-futaba.gif"  />
 </div>
 
 ###
@@ -79,5 +79,3 @@
 <h3 align="center">また会いましょう 👋</h3>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31owmcvxvg5y52zjvqwztufg7o2i&width={width})
