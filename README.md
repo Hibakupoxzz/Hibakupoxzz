@@ -80,4 +80,4 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31owmcvxvg5y52zjvqwztufg7o2i)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31owmcvxvg5y52zjvqwztufg7o2i&width={width})
