@@ -79,3 +79,5 @@
 <h3 align="center">また会いましょう 👋</h3>
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31owmcvxvg5y52zjvqwztufg7o2i)
