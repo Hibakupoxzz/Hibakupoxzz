@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Hibakupoxzz/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/Hibakupoxzz/count.svg?"  /> -->
 </div>
 
 ###
