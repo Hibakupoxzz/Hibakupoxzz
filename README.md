@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">- 🔦 I’m student of Pelita Nusantara<br>- 📚 Currently I am a beginner in learning game dev and web backend.<br>- 🔭 I'm currently learning PHP/Laravel & C# unity<br>- 🕹️ I only use unity for now XD</h4>
+<h4 align="left">- 🔦 I’m student of SMK Plus Pelita Nusantara<br>- 📚 Currently I am a beginner in learning game dev and web backend.<br>- 🔭 I'm currently learning PHP/Laravel & C# unity<br>- 🕹️ I only use unity for now XD</h4>
 
 ###
 
