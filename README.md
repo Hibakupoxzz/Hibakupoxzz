@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  />
+</div>
+
 <h2 align="left">🎉 About Me:</h2>
 
 ###
@@ -73,7 +77,7 @@
 ###
 
 <div align="center">
-  <img height="264" src="https://media1.tenor.com/m/8eaVfdZzdP4AAAAd/mashi-futaba-sakura.gif"  />
+  <img  src="https://media1.tenor.com/m/jhLppG3PIG4AAAAd/gurren-lagann-anime.gif"  />
 </div>
 
 ###
@@ -93,9 +97,7 @@
 ###
 
 <div align="center">
-  <img height="215" src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"/>
-  <img height="215" src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"/>
-  <img height="215" src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"/>
+  <img src="https://media1.tenor.com/m/RGFjJl6y1EYAAAAC/nia-gurren.gif"  />
 </div>
 
 ###
