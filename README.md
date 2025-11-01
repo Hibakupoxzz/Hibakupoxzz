@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"  />
+  <img src="https://github.blog/wp-content/uploads/2021/11/ezgif-3-5a2ece833fc4-1.gif?resize=1200%2C508"  />
 </div>
+
+###
+
+<p align="center">
+  <a href="https://github.com/Hibakupoxzz/Hibakupoxzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE7372&width=435&lines=Experienced+Game+Developer!;Junior+Web+Backend+Developer!;Always+learning+new+things!"></a>
+
+</p>
+
+###
 
 <h2 align="left">🎉 About Me:</h2>
 
@@ -34,7 +43,11 @@
 
 ###
 
-<h3 align="left">🪄 Languages and tools:</h3>
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/jhLppG3PIG4AAAAd/gurren-lagann-anime.gif"  />
+</div>
+
+<h3 align="left">🧨 Languages and tools:</h3>
 
 ###
 
@@ -76,9 +89,7 @@
 
 ###
 
-<div align="center">
-  <img  src="https://media1.tenor.com/m/jhLppG3PIG4AAAAd/gurren-lagann-anime.gif"  />
-</div>
+
 
 ###
 
@@ -97,7 +108,7 @@
 ###
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/RGFjJl6y1EYAAAAC/nia-gurren.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/RGFjJl6y1EYAAAAC/nia-gurren.gif"  />
 </div>
 
 ###
