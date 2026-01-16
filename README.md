@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/QesfuOB.mp4"  />
+  <img src="Mikubanner.mp4"  />
 </div>
 
 ###
@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/RGFjJl6y1EYAAAAC/nia-gurren.gif"  />
+  <img height="200" src="Midori.mp4"  />
 </div>
 
 <h3 align="left">🧨 Languages and tools:</h3>
