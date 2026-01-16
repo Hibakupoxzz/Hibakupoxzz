@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Mikubanner.mp4"  />
+  <img src="Mikubanner.gif"  />
 </div>
 
 ###
@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="Midori.mp4"  />
+  <img height="200" src="Midori.gif"  />
 </div>
 
 <h3 align="left">🧨 Languages and tools:</h3>
