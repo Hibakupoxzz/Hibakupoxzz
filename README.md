@@ -43,10 +43,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="Midori.gif"  />
-</div>
-
 <h3 align="left">🧨 Languages and tools:</h3>
 
 ###
@@ -88,7 +84,9 @@
 </div>
 
 ###
-
+<div align="center">
+  <img height="200" src="Midori.gif"  />
+</div>
 ###
 
 <div align="center">
