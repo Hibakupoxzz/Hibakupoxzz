@@ -83,18 +83,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 <div align="center">
   <img height="200" src="Midori.gif"  />
 </div>
-###
+
 
 <div align="center">
 <!--   <img src="https://profile-counter.glitch.me/Hibakupoxzz/count.svg?"  /> -->
 </div>
 
-###
-
 <h3 align="center">また会いましょう 👋</h3>
 
-###
