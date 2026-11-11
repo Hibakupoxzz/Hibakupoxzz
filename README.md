@@ -84,7 +84,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="Midori.gif"  />
+  <img height="200" src="Kana.gif"  />
 </div>
 
 
